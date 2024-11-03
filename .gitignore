@@ -6,6 +6,11 @@ electron/dist/
 *.exe
 *.dmg
 
+# Ignore Electron binaries
+node_modules/
+node_modules/electron/
+*.exe
+
 # Logs and temporary files
 *.log
 *.temp
