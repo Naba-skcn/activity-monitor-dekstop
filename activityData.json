@@ -1,0 +1,38 @@
+{
+  "clicks": 1,
+  "keypresses": 0,
+  "logs": [
+    {
+      "type": "click",
+      "timestamp": "2024-11-03T06:01:17.528Z"
+    }
+  ],
+  "appVisits": [
+    {
+      "title": "Sample Application",
+      "timestamp": "2024-11-02T21:23:31.307Z"
+    },
+    {
+      "title": "Sample Application",
+      "timestamp": "2024-11-02T21:24:38.934Z"
+    },
+    {
+      "title": "Sample Application",
+      "timestamp": "2024-11-02T21:27:44.380Z"
+    }
+  ],
+  "websiteVisits": [
+    {
+      "url": "https://example.com",
+      "timestamp": "2024-11-02T21:23:31.316Z"
+    },
+    {
+      "url": "https://example.com",
+      "timestamp": "2024-11-02T21:24:38.937Z"
+    },
+    {
+      "url": "https://example.com",
+      "timestamp": "2024-11-02T21:27:44.383Z"
+    }
+  ]
+}
